@@ -1,0 +1,54 @@
+body{
+  width: 100%;
+  height: 100vh;
+ display: flex; flex-wrap: wrap;
+}
+
+.navegador1 {
+    left: 1220px;
+    position: absolute;
+    top: 25px;
+    color: white;
+   
+}
+
+.navegador2 {
+    left: 1310px;
+    position: absolute;
+    top: 25px;
+    color: white;
+}
+
+
+.navegador3 {
+    left: 1418px;
+    position: absolute;
+    top: 25px;
+    color: white;
+}
+
+.EcoViajes {
+    top: 2px;
+    position: absolute;
+    left: 40px;
+    color: white;
+    align-items: center;
+
+}
+
+.EcoViajes {
+       background-color: darkblue;
+       height: 80px;
+       width: 1489px;
+       
+       
+}
+
+.barralateral{
+ top: 90px;
+ position: relative;
+}
+
+PlayasyCostos{
+
+}
